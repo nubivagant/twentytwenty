@@ -1,19 +1,14 @@
 ---
-title: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+title: Kurtis Johnson
+bio: "I like turning problems into opportunities of value for public good.  \n\nCurrently:
+  I'm a consultant in the Org Design team at FutureGov, the change agency for 21st
+  century public service organisations."
+avatar: "/images/photo1.jpg"
 featured: true
 social:
-  - title: unsplash
-    url: https://unsplash.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: twitter
+  url: https://twitter.com/kurtisojohnson/
+- title: github
+  url: http://github.com/nubivagant/
+
 ---
